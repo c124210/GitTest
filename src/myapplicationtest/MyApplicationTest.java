@@ -17,6 +17,7 @@ public class MyApplicationTest {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Testing... ");
+        System.out.println("version 1.2");
         
         // we are testing functionality
     }
